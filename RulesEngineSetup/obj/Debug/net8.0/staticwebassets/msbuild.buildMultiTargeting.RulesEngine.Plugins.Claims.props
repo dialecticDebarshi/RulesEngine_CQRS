@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RulesEngine.Plugins.Claims.props" />
+</Project>

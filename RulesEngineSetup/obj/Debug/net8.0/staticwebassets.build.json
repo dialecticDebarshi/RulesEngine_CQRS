@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x7QX6BeIMqws70URYzY94zM+v+cWT1YHhDyXTo+Zf7s=",
+  "Source": "RulesEngine.Plugins.Claims",
+  "BasePath": "_content/RulesEngine.Plugins.Claims",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
