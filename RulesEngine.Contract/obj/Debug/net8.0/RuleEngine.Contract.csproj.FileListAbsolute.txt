@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RuleEngine.Contract\bin\Debug\net8.0\RuleEngine.Contract.deps.json
+C:\Users\Admin\source\repos\RuleEngine.Contract\bin\Debug\net8.0\RuleEngine.Contract.dll
+C:\Users\Admin\source\repos\RuleEngine.Contract\bin\Debug\net8.0\RuleEngine.Contract.pdb
+C:\Users\Admin\source\repos\RuleEngine.Contract\bin\Debug\net8.0\RuleEngine.Domain.dll
+C:\Users\Admin\source\repos\RuleEngine.Contract\bin\Debug\net8.0\RuleEngine.Domain.pdb
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngi.D1B92DC3.Up2Date
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.dll
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\refint\RuleEngine.Contract.dll
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\RuleEngine.Contract.pdb
+C:\Users\Admin\source\repos\RuleEngine.Contract\obj\Debug\net8.0\ref\RuleEngine.Contract.dll
