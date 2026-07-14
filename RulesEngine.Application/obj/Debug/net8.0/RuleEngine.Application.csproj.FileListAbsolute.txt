@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Application.deps.json
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Application.dll
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Application.pdb
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Contract.dll
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Domain.dll
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Contract.pdb
+C:\Users\Admin\source\repos\RuleEngine.Application\bin\Debug\net8.0\RuleEngine.Domain.pdb
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngi.CEB46518.Up2Date
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.dll
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\refint\RuleEngine.Application.dll
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\RuleEngine.Application.pdb
+C:\Users\Admin\source\repos\RuleEngine.Application\obj\Debug\net8.0\ref\RuleEngine.Application.dll
