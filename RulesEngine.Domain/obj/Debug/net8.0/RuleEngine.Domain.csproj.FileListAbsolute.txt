@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\RuleEngine.Domain\bin\Debug\net8.0\RuleEngine.Domain.deps.json
+C:\Users\Admin\source\repos\RuleEngine.Domain\bin\Debug\net8.0\RuleEngine.Domain.dll
+C:\Users\Admin\source\repos\RuleEngine.Domain\bin\Debug\net8.0\RuleEngine.Domain.pdb
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.dll
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\refint\RuleEngine.Domain.dll
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\RuleEngine.Domain.pdb
+C:\Users\Admin\source\repos\RuleEngine.Domain\obj\Debug\net8.0\ref\RuleEngine.Domain.dll
