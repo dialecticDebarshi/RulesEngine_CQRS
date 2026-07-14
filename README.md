@@ -4,7 +4,7 @@ A highly scalable, production-ready Rules Engine implementation in .NET Core. Th
 
 ## 🚀 Architecture & Design Principles
 
-The solution is strictly organized into **4 projects** adhering to **Clean Architecture** guidelines:
+The solution is strictly organized into **5 projects** adhering to **Clean Architecture** guidelines:
 * **Domain:** Contains core entities, business rules definitions, and domain logic.
 * **Application:** Handles application workflows, command/query handling, and orchestration.
 * **Infrastructure:** Manages external concerns such as database context, persistence, and third-party integrations.
